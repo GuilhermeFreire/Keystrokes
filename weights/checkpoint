@@ -1,6 +1,6 @@
-model_checkpoint_path: "model_e84b162_1516608883.3980472.ckpt"
-all_model_checkpoint_paths: "model_e63b143_1516602476.4333112.ckpt"
+model_checkpoint_path: "model_e88b163_1516610321.6801162.ckpt"
 all_model_checkpoint_paths: "model_e65b144_1516603006.7738812.ckpt"
 all_model_checkpoint_paths: "model_e71b145_1516604686.2056773.ckpt"
 all_model_checkpoint_paths: "model_e73b145_1516605283.4453857.ckpt"
 all_model_checkpoint_paths: "model_e84b162_1516608883.3980472.ckpt"
+all_model_checkpoint_paths: "model_e88b163_1516610321.6801162.ckpt"
